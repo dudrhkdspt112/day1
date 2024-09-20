@@ -10,6 +10,6 @@
     - CSS 외부 링크🍔
     - 특수 효과🍕
 + 깃으로 관리 🚙🛺
-
-구글링크
-[Google](https://google.com)
++ 깃허브 페이지 사용해서(Deploy)
+함
+[배포](https://dudrhkdspt112.github.io/day1/)
